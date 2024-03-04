@@ -9,7 +9,7 @@
  },
  {
   "input": "It talked about why light slows down when it passes through a medium, and in particular, why the rate of slowdown would depend on color.",
-  "translatedText": "Ini berbicara tentang mengapa cahaya melambat ketika melewati suatu medium, dan khususnya, mengapa laju perlambatan akan bergantung pada warna.",
+  "translatedText": "Itu berbicara tentang mengapa cahaya melambat ketika melewati suatu medium, dan khususnya, mengapa laju perlambatan akan bergantung pada warna.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 3.42,
@@ -17,7 +17,7 @@
  },
  {
   "input": "It turns out people have a lot of questions about the index of refraction, and in this supplemental video I wanted to take a chance to answer a couple of them.",
-  "translatedText": "Ternyata, banyak orang yang memiliki banyak pertanyaan mengenai indeks refraksi, dan dalam video tambahan ini, saya ingin mengambil kesempatan untuk menjawab beberapa pertanyaan.",
+  "translatedText": "Ternyata, banyak orang memiliki banyak pertanyaan mengenai indeks refraksi, dan dalam video tambahan ini, saya ingin mengambil kesempatan untuk menjawab beberapa pertanyaan.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 10.88,
@@ -25,7 +25,7 @@
  },
  {
   "input": "For example, how is it possible for this index to be lower than one, which seems to imply that light would travel faster than the speed of light through some materials.",
-  "translatedText": "Sebagai contoh, bagaimana mungkin indeks ini lebih rendah dari satu, yang tampaknya mengimplikasikan bahwa cahaya akan bergerak lebih cepat daripada kecepatan cahaya melalui beberapa bahan.",
+  "translatedText": "Sebagai contoh, bagaimana mungkin indeks ini lebih rendah dari yang lain, yang tampaknya mengimplikasikan bahwa cahaya akan bergerak lebih cepat daripada kecepatan cahaya melalui beberapa material.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 18.28,
@@ -41,7 +41,7 @@
  },
  {
   "input": "There's a common analogy, which is to think of something like a car or a tank, where it turns a little bit while one side of it slows down before the other, and although it's a very visceral and memorable analogy, it's not like light has wheels, and it also tells you nothing about how to be more quantitative.",
-  "translatedText": "Ada analogi yang umum, yaitu membayangkan sesuatu seperti mobil atau tank, di mana mobil berputar sedikit sementara satu sisi melambat sebelum sisi yang lain, dan meskipun ini adalah analogi yang sangat mendalam dan mudah diingat, namun ini tidak seperti cahaya yang memiliki roda, dan ini juga tidak memberi tahu Anda apa pun tentang cara menjadi lebih kuantitatif.",
+  "translatedText": "Ada analogi yang umum, yaitu membayangkan sesuatu seperti mobil atau tank, di mana itu berputar sedikit sementara satu sisi melambat sebelum sisi yang lain, dan meskipun ini adalah analogi yang sangat mendalam dan mudah diingat, namun cahaya tidaklah memiliki roda, dan ini juga tidak memberi tahu Anda apa pun tentang cara menjadi lebih kuantitatif.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 44.36,
@@ -49,7 +49,7 @@
  },
  {
   "input": "And derive the formula describing exactly how much light bends.",
-  "translatedText": "Turunkan rumus yang menggambarkan secara tepat, seberapa besar pembelokan cahaya.",
+  "translatedText": "Dan turunan rumus yang menggambarkan secara tepat, seberapa besar pembelokan cahaya.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 60.06,
@@ -57,7 +57,7 @@
  },
  {
   "input": "Here's a better way to think about it.",
-  "translatedText": "Inilah cara yang lebih baik untuk memikirkannya.",
+  "translatedText": "Begini cara yang lebih baik untuk membayangkannya.",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 64.46,
@@ -65,7 +65,7 @@
  },
  {
   "input": "If you have some light wave shining into a material like glass, if it slows down, notice how that means that it gets kind of scrunched up.",
-  "translatedText": "Jika Anda memiliki gelombang cahaya yang menyinari suatu bahan seperti kaca, jika gelombang cahaya melambat, perhatikan, itu berarti bahan tersebut akan sedikit berkerut.",
+  "translatedText": "Jika Anda memiliki gelombang cahaya yang menyinari suatu bahan seperti kaca, jika itu melambat, perhatikan bagaimana gelombang itu menjadi mengerut.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 65.94,
@@ -73,7 +73,7 @@
  },
  {
   "input": "If its wavelength in a vacuum was some number lambda, then the wavelength inside this material, where it's gotten slowed down, is something smaller than that.",
-  "translatedText": "Jika panjang gelombang dalam ruang hampa adalah sejumlah lambda, maka panjang gelombang di dalam materi ini, di mana ia diperlambat, adalah sesuatu yang lebih kecil dari itu.",
+  "translatedText": "Jika panjang gelombang dalam ruang hampa adalah sejumlah lambda, maka panjang gelombang di dalam material ini, di mana ia diperlambat, adalah sesuatu yang lebih kecil dari itu.",
   "model": "DeepL",
   "n_reviews": 0,
   "start": 73.44,
